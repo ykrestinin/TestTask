@@ -38,6 +38,6 @@ mvn verify
 
 # Test Report
 After test is run, Serenity framework generates test reports which you can find here:
-'''
+```
 /git/AssetMetrix/target/site/serenity/index.html
-'''
+```
